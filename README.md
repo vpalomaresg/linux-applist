@@ -31,6 +31,7 @@
 - peek
 - obs-studio
 - guvcview
+- davinci-resolve
 - kdenlive
 - handbrake
 - ciano
@@ -52,6 +53,7 @@
 
 - vscode
 - github-desktop
+- virtualbox
 - teamviewer
 - filezilla
 
